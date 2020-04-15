@@ -1,0 +1,17 @@
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\ref\WeatherApp.dll
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\ref\WeatherApp.dll
+C:\Users\rsawc\source\repos\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
